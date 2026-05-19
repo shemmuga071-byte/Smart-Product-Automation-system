@@ -42,4 +42,4 @@ py upload_products.py
 
 ## Language
 
-C++17 · Python 3.13
+C++· Python 3.13
